@@ -1,3 +1,3 @@
 # KNU.github.io
 
-https://KNU.github.io
+For class
