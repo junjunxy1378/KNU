@@ -1,2 +1,3 @@
 # KNU.github.io
-class
+
+https://KNU.github.io
